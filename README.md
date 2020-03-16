@@ -14,7 +14,7 @@ tar -xvzf CPT.16.4.1.tar.gz
 
 Then get inside the folder:
 ```bash
-cd CPT/16.4.1/
+cd CPT/16.4.1/ ```
 
 And compile, _this may take a while_:
 ```bash
