@@ -8,10 +8,11 @@ Software download and instructions can be found at: https://doi.org/10.7916/d8-8
 Once downloaded inside your preferred folder open a new terminal and type:
 
 ```bash
-
-
 tar -xvzf CPT.16.4.1.tar.gz
+``` 
 
+
+```bash
 cd CPT/16.4.1/
 
 make -f Makefile
