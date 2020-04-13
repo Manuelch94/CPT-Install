@@ -12,7 +12,7 @@ To extract contents:
 tar -xvzf CPT.16.4.1.tar.gz
 ``` 
 
-Then get inside the folder:
+Then inside the folder:
 ```bash
 cd CPT/16.4.1/ 
 ```
